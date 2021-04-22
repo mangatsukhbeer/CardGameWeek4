@@ -5,7 +5,7 @@ package cardgameweek4;
  * How can you change the size of the hand? how big is it right now?
  * @suthor dancye, 2019.
  */
-
+  // @author Sukhbeer
 public class CardHand {
 
         private int handSize = 52;
